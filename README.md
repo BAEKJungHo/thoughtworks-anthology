@@ -1,2 +1,1 @@
-# thoughtworks-anthology
-Thoughtworks anthology
+# Thoughtworks anthology
